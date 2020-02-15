@@ -1,0 +1,4 @@
+EL archivo aia es el programa elaborado en MIT APP inventor 2 de google
+El APK es el programa que se instala en android
+El codigo del programa ya esta adaptado para que muestre tanto en la
+LCD como en el telefono movil
